@@ -4,12 +4,12 @@ This repository contains supplementary materials supporting the manuscript:
 
 **Diagnostic Thresholds of Fever and Hypothermia for Predicting Mortality and Sepsis in Young Infants: A Systematic Review and Meta-analysis**
 
-## Repository Contents
+## Contents
 
-- Additional subgroup analyses and supplementary figures
-- PRISMA 2020 checklist
-- Complete search strategies
-- Excluded studies
-- Detailed characteristics of included studies
+* PRISMA 2020 checklist
+* Rectal versus axillary temperature conversion chart
+* Characteristics of additional studies reporting hazard ratios
+* Risk-of-bias assessment tools and study-level evaluations (Newcastle–Ottawa Scale, QUADAS-2, and QUAPAS)
+* Subgroup analyses by clinical setting and country income
 
-These materials accompany the manuscript submitted to *The Journal of Pediatrics*.
+These materials accompany the manuscript and are provided to facilitate access to supplementary analyses and supporting documentation.
